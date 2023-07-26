@@ -1,0 +1,156 @@
+ksb@ksb-OptiPlex-3060:~$ sh menu.sh
+1.All ordinary files 
+2.All Directory files 
+3.All special files 
+4.All files readable to ugo 
+5.All files writable to ugo 
+6.All files executable to ugo 
+7.All files with rwx to owner 
+8.exit
+
+Enter your Option: 
+1
+
+-----ALL ORDINARY FILES-----
+abc.tar
+copyfiles.sh
+count.sh
+extract.sh
+menu.sh
+
+Press enter to continue
+
+1.All ordinary files 
+2.All Directory files 
+3.All special files 
+4.All files readable to ugo 
+5.All files writable to ugo 
+6.All files executable to ugo 
+7.All files with rwx to owner 
+8.exit
+
+Enter your Option: 
+2
+
+-----ALL DIRECTORY FILES-----
+Desktop
+Documents
+Downloads
+Music
+Pictures
+Public
+Templates
+Videos
+docker
+dump
+javaLab
+linux
+mongodb1
+mongodb2
+mongodb3
+snap
+
+Press enter to continue
+
+1.All ordinary files 
+2.All Directory files 
+3.All special files 
+4.All files readable to ugo 
+5.All files writable to ugo 
+6.All files executable to ugo 
+7.All files with rwx to owner 
+8.exit
+
+Enter your Option: 
+3
+
+-----ALL SPECIAL FILES-----
+No files exist
+
+Press enter to continue
+
+1.All ordinary files 
+2.All Directory files 
+3.All special files 
+4.All files readable to ugo 
+5.All files writable to ugo 
+6.All files executable to ugo 
+7.All files with rwx to owner 
+8.exit
+
+Enter your Option: 
+4
+
+----ALL FILES READABLE TO UGO-----
+abc.tar
+copyfiles.sh
+count.sh
+extract.sh
+menu.sh
+
+Press enter to continue
+
+1.All ordinary files 
+2.All Directory files 
+3.All special files 
+4.All files readable to ugo 
+5.All files writable to ugo 
+6.All files executable to ugo 
+7.All files with rwx to owner 
+8.exit
+
+Enter your Option: 
+5
+
+-----ALL FILES WRITABLE TO UGO-----
+No files exist
+
+Press enter to continue
+
+1.All ordinary files 
+2.All Directory files 
+3.All special files 
+4.All files readable to ugo 
+5.All files writable to ugo 
+6.All files executable to ugo 
+7.All files with rwx to owner 
+8.exit
+
+Enter your Option: 
+6
+
+-----ALL FILES EXECUTABLE TO UGO-----
+No files exist
+
+Press enter to continue
+
+1.All ordinary files 
+2.All Directory files 
+3.All special files 
+4.All files readable to ugo 
+5.All files writable to ugo 
+6.All files executable to ugo 
+7.All files with rwx to owner 
+8.exit
+
+Enter your Option: 
+7
+
+-----ALL FILES RWX TO OWNER-----
+count.sh
+extract.sh
+menu.sh
+
+Press enter to continue
+
+1.All ordinary files 
+2.All Directory files 
+3.All special files 
+4.All files readable to ugo 
+5.All files writable to ugo 
+6.All files executable to ugo 
+7.All files with rwx to owner 
+8.exit
+
+Enter your Option: 
+8
